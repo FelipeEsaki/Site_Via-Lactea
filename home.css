@@ -4,17 +4,131 @@
     position: absolute;
 }
 
+.frase_principal{
+    color: #FFFFFF;
+    position: absolute;
+    font-size: 30px;
+    margin: 20px 20px;
+    font-family: 'Ethnocentric', sans-serif;
+}
+
 .terra{
-    font-size: 50px;
+    font-size: 100px;
     position: absolute;
     color: transparent; 
     text-decoration: none;
-    margin-left: 683px;
-    margin-top: 643px;
+    margin-left: 686px;
+    margin-top: 615px;
     padding: 15px;
     border-radius: 200px;
 }
 
-.terra:hover{
-    
+.lua{
+    font-size: 20px;
+    position: absolute;
+    color: transparent; 
+    text-decoration: none;
+    margin-left: 626px;
+    margin-top: 600px;
+    padding: 15px;
+    border-radius: 200px; 
+}
+
+.mercurio{
+    font-size: 25px;
+    position: absolute;
+    color: transparent; 
+    text-decoration: none;
+    margin-left: 660px;
+    margin-top: 480px;
+    padding: 15px;
+    border-radius: 200px;
+}
+
+.jupiter{
+    font-size: 60px;
+    position: absolute;
+    color: transparent; 
+    text-decoration: none;
+    margin-left: 260px;
+    margin-top: 570px;
+    padding: 50px;
+    border-radius: 200px; 
+}
+
+.sol{
+    font-size: 240px;
+    position: absolute;
+    color: transparent; 
+    text-decoration: none;
+    margin-left: 820px;
+    margin-top: 345px;
+    padding: 15px;
+    border-radius: 200px;
+}
+
+.venus{
+    font-size: 110px;
+    position: absolute;
+    color: transparent; 
+    text-decoration: none;
+    margin-left: 1205px;
+    margin-top: 354px;
+    padding: 15px;
+    border-radius: 200px;
+}
+
+.marte{
+    font-size: 60px;
+    position: absolute;
+    color: transparent; 
+    text-decoration: none;
+    margin-left: 665px;
+    margin-top: 270px;
+    padding: 15px;
+    border-radius: 200px;
+}
+
+.saturno{
+    font-size: 130px;
+    position: absolute;
+    color: transparent; 
+    text-decoration: none;
+    margin-left: 1572px;
+    margin-top: 230px;
+    padding: 15px;
+    border-radius: 200px;
+}
+
+.urano{
+    font-size: 68px;
+    position: absolute;
+    color: transparent; 
+    text-decoration: none;
+    margin-left: 1120px;
+    margin-top: 43px;
+    padding: 15px;
+    border-radius: 200px;
+}
+
+.netuno{
+    font-size: 90px;
+    position: absolute;
+    color: transparent;
+    text-decoration: none;
+    margin-left: 372px;
+    margin-top: 147px;
+    padding: 15px;
+    border-radius: 200px;
+}
+
+.plutao{
+    font-size: 30px;
+    position: absolute;
+    color: transparent; 
+    text-decoration: none;
+    margin-left: 1657px;
+    margin-top: 703px;
+    padding: 15px;
+    border-radius: 200px;
 }
